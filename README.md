@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Simulador de Processos e Escalonamento
 
 Simulador de gerenciamento e escalonamento de processos desenvolvido em Java, executado pelo terminal. O projeto permite cadastrar processos, gerenciar suas informações, simular diferentes políticas de escalonamento e comparar os resultados por meio de métricas de desempenho.
@@ -349,3 +350,7 @@ Projeto acadêmico desenvolvido para estudo de Sistemas Operacionais e algoritmo
 
 Projeto desenvolvido para fins educacionais. Caso deseje disponibilizá-lo para reutilização por outras pessoas, adicione uma licença apropriada ao repositório.
 
+=======
+# simulador-de-processos
+Simulador de Processos e Escalonamento
+>>>>>>> df501e9f2c85e7e2fa440cde43b84e2c7eb0e85e
